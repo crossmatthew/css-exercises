@@ -1,5 +1,5 @@
 body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 img {
@@ -33,6 +33,8 @@ body {
 
 .title {
   margin-bottom: 32px;
+  font-size: 32px;
+  font-weight: 900;
 }
 
 .container {
